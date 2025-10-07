@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "module": "ES6",
+        "jsx": "preserve",
+        "baseUrl": ".",
+        "checkJs": false,
+        // "paths": { "lib/*": ["src/lib/*"], "components/*": ["src/components/*"], "utility/*": ["src/utility/*"] },
+        "moduleResolution": "node",
+        "resolveJsonModule": true
+    },
+    "include": ["**/*.js", "**/*.jsx", "src/**/*.js"],
+    "exclude": ["node_modules", "**/node_modules/*"]
+}

@@ -1,0 +1,442 @@
+{
+    "concerts": {
+        "category": "Concerts",
+        "child": "",
+        "grandchild": "",
+        "tickets_available": 0,
+        "total_inventory_value": 0,
+        "ticket_price": 0,
+        "title": "Concerts",
+        "path": "https://www.ticketnetwork.com/concert-tickets"
+    },
+    "sports": {
+        "category": "Sports",
+        "child": "",
+        "grandchild": "",
+        "tickets_available": 0,
+        "total_inventory_value": 0,
+        "ticket_price": 0,
+        "title": "Sports",
+        "path": "https://www.ticketnetwork.com/sports-tickets"
+    },
+    "theater": {
+        "category": "Theater",
+        "child": "",
+        "grandchild": "",
+        "tickets_available": 0,
+        "total_inventory_value": 0,
+        "ticket_price": 0,
+        "title": "Theater",
+        "path": "https://www.ticketnetwork.com/theater-tickets"
+    },
+    "comedy": {
+        "category": "Concerts",
+        "child": "Comedy",
+        "grandchild": "",
+        "tickets_available": 0,
+        "total_inventory_value": 0,
+        "ticket_price": 0,
+        "title": "Comedy",
+        "path": "https://www.ticketnetwork.com/category/comedy-shows-tickets"
+    },
+    "ballet": {
+        "category": "Theater",
+        "child": "Ballet",
+        "grandchild": "",
+        "tickets_available": 0,
+        "total_inventory_value": 0,
+        "ticket_price": 0,
+        "title": "Ballet",
+        "path": "https://www.ticketnetwork.com/category/theater-ballet-tickets"
+    },
+    "alternative": {
+        "category": "Concerts",
+        "child": "Alternative",
+        "grandchild": "",
+        "tickets_available": 0,
+        "total_inventory_value": 0,
+        "ticket_price": 0,
+        "title": "Alternative Music",
+        "path": "https://www.ticketnetwork.com/category/concerts-alternative-tickets"
+    },
+    "nba": {
+        "category": "Sports",
+        "child": "Basketball",
+        "grandchild": "Professional (NBA)",
+        "tickets_available": 49358,
+        "total_inventory_value": 70288040.87979999,
+        "ticket_price": 1424.0455626200412,
+        "title": "NBA",
+        "path": "https://www.ticketnetwork.com/category/sports-basketball-nba-tickets"
+    },
+    "basketball": {
+        "category": "Sports",
+        "child": "Basketball",
+        "grandchild": "",
+        "tickets_available": 0,
+        "total_inventory_value": 0,
+        "ticket_price": 0,
+        "title": "Basketball",
+        "path": "https://www.ticketnetwork.com/category/sports-basketball-tickets"
+    },
+    "nfl": {
+        "category": "Sports",
+        "child": "Football",
+        "grandchild": "NFL",
+        "tickets_available": 4917390,
+        "total_inventory_value": 1529045522.6737,
+        "ticket_price": 310.94656365952267,
+        "title": "NFL",
+        "path": "https://www.ticketnetwork.com/category/sports-football-nfl-tickets"
+    },
+    "football": {
+        "category": "Sports",
+        "child": "Football",
+        "grandchild": "",
+        "tickets_available": 0,
+        "total_inventory_value": 0,
+        "ticket_price": 0,
+        "title": "Football",
+        "path": "https://www.ticketnetwork.com/category/sports-football-tickets"
+    },
+    "broadway": {
+        "category": "Theater",
+        "child": "Broadway",
+        "grandchild": "",
+        "tickets_available": 2357416,
+        "total_inventory_value": 748944485.0453,
+        "ticket_price": 317.69720959105223,
+        "title": "Broadway",
+        "path": "https://www.ticketnetwork.com/category/theater-broadway-tickets"
+    },
+    "dance": {
+        "category": "Theater",
+        "child": "Dance",
+        "grandchild": "",
+        "tickets_available": 0,
+        "total_inventory_value": 0,
+        "ticket_price": 0,
+        "title": "Dance",
+        "path": "https://www.ticketnetwork.com/category/theater-dance-tickets"
+    },
+    "opera": {
+        "category": "Theater",
+        "child": "Opera",
+        "grandchild": "",
+        "tickets_available": 0,
+        "total_inventory_value": 0,
+        "ticket_price": 0,
+        "title": "Opera",
+        "path": "https://www.ticketnetwork.com/category/theater-opera-tickets"
+    },
+    "mlb": {
+        "category": "Sports",
+        "child": "Baseball",
+        "grandchild": "Professional (MLB)",
+        "tickets_available": 14134448,
+        "total_inventory_value": 1445287143.19,
+        "ticket_price": 102.25281830532045,
+        "title": "MLB",
+        "path": "https://www.ticketnetwork.com/category/sports-baseball-mlb-tickets"
+    },
+    "baseball": {
+        "category": "Sports",
+        "child": "Baseball",
+        "grandchild": "",
+        "tickets_available": 0,
+        "total_inventory_value": 0,
+        "ticket_price": 0,
+        "title": "Baseball",
+        "path": "https://www.ticketnetwork.com/category/sports-baseball-tickets"
+    },
+    "cirque-du-soleil": {
+        "category": "Theater",
+        "child": "Las Vegas",
+        "grandchild": "Cirque du Soleil",
+        "tickets_available": 2048845,
+        "total_inventory_value": 481875127.6,
+        "ticket_price": 235.1935493412142,
+        "title": "Cirque du Soleil",
+        "path": "https://www.ticketnetwork.com/category/cirque-du-soleil-tickets"
+    },
+    "ufc": {
+        "category": "Sports",
+        "child": "Mixed Martial Arts",
+        "grandchild": "UFC",
+        "tickets_available": 80626,
+        "total_inventory_value": 58621314.56,
+        "ticket_price": 727.0770540520427,
+        "title": "UFC",
+        "path": "https://www.ticketnetwork.com/category/ufc-tickets"
+    },
+    "nhl": {
+        "category": "Sports",
+        "child": "Hockey",
+        "grandchild": "Professional (NHL)",
+        "tickets_available": 67411,
+        "total_inventory_value": 170290750.09,
+        "ticket_price": 2526.1567116642686,
+        "title": "NHL",
+        "path": "https://www.ticketnetwork.com/category/sports-hockey-nhl-tickets"
+    },
+    "hockey": {
+        "category": "Sports",
+        "child": "Hockey",
+        "grandchild": "",
+        "tickets_available": 0,
+        "total_inventory_value": 0,
+        "ticket_price": 0,
+        "title": "Hockey",
+        "path": "https://www.ticketnetwork.com/category/sports-hockey-tickets"
+    },
+    "wwe": {
+        "category": "Sports",
+        "child": "Wrestling",
+        "grandchild": "WWE",
+        "tickets_available": 202686,
+        "total_inventory_value": 48235803.44,
+        "ticket_price": 237.98290676218386,
+        "title": "WWE Wrestling",
+        "path": "https://www.ticketnetwork.com/category/wwe-tickets"
+    },
+    "wrestling": {
+        "category": "Sports",
+        "child": "Wrestling",
+        "grandchild": "",
+        "tickets_available": 0,
+        "total_inventory_value": 0,
+        "ticket_price": 0,
+        "title": "Wrestling",
+        "path": "https://www.ticketnetwork.com/category/sports-wrestling-tickets"
+    },
+    "mma": {
+        "category": "Sports",
+        "child": "Mixed Martial Arts",
+        "grandchild": "",
+        "tickets_available": 0,
+        "total_inventory_value": 0,
+        "ticket_price": 0,
+        "title": "MMA",
+        "path": "https://www.ticketnetwork.com/category/mma-tickets"
+    },
+    "family-friendly-concerts": {
+        "category": "Concerts",
+        "child": "Children / Family",
+        "grandchild": "",
+        "tickets_available": 0,
+        "total_inventory_value": 0,
+        "ticket_price": 0,
+        "title": "Family-Friendly Concerts",
+        "path": "https://www.ticketnetwork.com/category/children-family-tickets"
+    },
+    "hard-rock-metal": {
+        "category": "Concerts",
+        "child": "Hard Rock / Metal",
+        "grandchild": "",
+        "tickets_available": 0,
+        "total_inventory_value": 0,
+        "ticket_price": 0,
+        "title": "Hard Rock & Metal",
+        "path": "https://www.ticketnetwork.com/category/concerts-hard-rock-metal-tickets"
+    },
+    "classical": {
+        "category": "Concerts",
+        "child": "Classical",
+        "grandchild": "",
+        "tickets_available": 0,
+        "total_inventory_value": 0,
+        "ticket_price": 0,
+        "title": "Classical Music",
+        "path": "https://www.ticketnetwork.com/category/classical-tickets"
+    },
+    "latin": {
+        "category": "Concerts",
+        "child": "Latin",
+        "grandchild": "",
+        "tickets_available": 0,
+        "total_inventory_value": 0,
+        "ticket_price": 0,
+        "title": "Latin Music",
+        "path": "https://www.ticketnetwork.com/category/latin-music-tickets"
+    },
+    "religious": {
+        "category": "Concerts",
+        "child": "Religious",
+        "grandchild": "",
+        "tickets_available": 0,
+        "total_inventory_value": 0,
+        "ticket_price": 0,
+        "title": "Religious Music",
+        "path": "https://www.ticketnetwork.com/category/concerts-religious-tickets"
+    },
+    "pop": {
+        "category": "Concerts",
+        "child": "Pop / Rock",
+        "grandchild": "",
+        "tickets_available": 0,
+        "total_inventory_value": 0,
+        "ticket_price": 0,
+        "title": "Pop & Rock",
+        "path": "https://www.ticketnetwork.com/category/concerts-pop-and-rock-tickets"
+    },
+    "rb-soul": {
+        "category": "Concerts",
+        "child": "R&B / Soul",
+        "grandchild": "",
+        "tickets_available": 0,
+        "total_inventory_value": 0,
+        "ticket_price": 0,
+        "title": "R&B & Soul Music",
+        "path": "https://www.ticketnetwork.com/category/concerts-r-b-and-soul-tickets"
+    },
+    "rap-hip-hop": {
+        "category": "Concerts",
+        "child": "Rap / Hip Hop",
+        "grandchild": "",
+        "tickets_available": 0,
+        "total_inventory_value": 0,
+        "ticket_price": 0,
+        "title": "Hip-Hop & Rap",
+        "path": "https://www.ticketnetwork.com/category/hip-hop-tickets"
+    },
+    "las-vegas-shows": {
+        "category": "Theater",
+        "child": "Las Vegas",
+        "grandchild": "",
+        "tickets_available": 0,
+        "total_inventory_value": 0,
+        "ticket_price": 0,
+        "title": "Vegas Shows",
+        "path": "https://www.ticketnetwork.com/category/theater-las-vegas-theater-tickets"
+    },
+    "oldies": {
+        "category": "Concerts",
+        "child": "50s / 60s Era",
+        "grandchild": "",
+        "tickets_available": 0,
+        "total_inventory_value": 0,
+        "ticket_price": 0,
+        "title": "50s 60s Era Music",
+        "path": "https://www.ticketnetwork.com/category/concerts-50s-60s-era-tickets"
+    },
+    "festivals": {
+        "category": "Concerts",
+        "child": "Festival / Tour",
+        "grandchild": "",
+        "tickets_available": 0,
+        "total_inventory_value": 0,
+        "ticket_price": 0,
+        "title": "Music Festivals",
+        "path": "https://www.ticketnetwork.com/category/concerts-festivals-tour-tickets"
+    },
+    "country-folk": {
+        "category": "Concerts",
+        "child": "Country / Folk",
+        "grandchild": "",
+        "tickets_available": 0,
+        "total_inventory_value": 0,
+        "ticket_price": 0,
+        "title": "Country & Folk Music",
+        "path": "https://www.ticketnetwork.com/category/country-music-tickets"
+    },
+    "family-friendly-shows": {
+        "category": "Theater",
+        "child": "Children / Family",
+        "grandchild": "",
+        "tickets_available": 0,
+        "total_inventory_value": 0,
+        "ticket_price": 0,
+        "title": "Family-Friendly Shows",
+        "path": "https://www.ticketnetwork.com/category/concerts-children-and-family-concert-tickets"
+    },
+    "musicals": {
+        "category": "Theater",
+        "child": "Musical / Play",
+        "grandchild": "",
+        "tickets_available": 0,
+        "total_inventory_value": 0,
+        "ticket_price": 0,
+        "title": "Musicals",
+        "path": "https://www.ticketnetwork.com/category/theater-musical-play-tickets"
+    },
+    "off-broadway": {
+        "category": "Theater",
+        "child": "Off-Broadway",
+        "grandchild": "",
+        "tickets_available": 0,
+        "total_inventory_value": 0,
+        "ticket_price": 0,
+        "title": "Off-Broadway",
+        "path": "https://www.ticketnetwork.com/category/theater-off-broadway-tickets"
+    },
+    "west-end": {
+        "category": "Theater",
+        "child": "West End",
+        "grandchild": "",
+        "tickets_available": 0,
+        "total_inventory_value": 0,
+        "ticket_price": 0,
+        "title": "West End",
+        "path": "https://www.ticketnetwork.com/category/theater-west-end-tickets"
+    },
+    "boxing": {
+        "category": "Sports",
+        "child": "Boxing",
+        "grandchild": "",
+        "tickets_available": 0,
+        "total_inventory_value": 0,
+        "ticket_price": 0,
+        "title": "Boxing",
+        "path": "https://www.ticketnetwork.com/category/sports-boxing-tickets"
+    },
+    "soccer": {
+        "category": "Sports",
+        "child": "Soccer",
+        "grandchild": "",
+        "tickets_available": 0,
+        "total_inventory_value": 0,
+        "ticket_price": 0,
+        "title": "Soccer",
+        "path": "https://www.ticketnetwork.com/category/sports-soccer-tickets"
+    },
+    "racing": {
+        "category": "Sports",
+        "child": "Racing",
+        "grandchild": "",
+        "tickets_available": 0,
+        "total_inventory_value": 0,
+        "ticket_price": 0,
+        "title": "Racing",
+        "path": "https://www.ticketnetwork.com/category/sports-racing-tickets"
+    },
+    "golf": {
+        "category": "Sports",
+        "child": "Golf",
+        "grandchild": "",
+        "tickets_available": 0,
+        "total_inventory_value": 0,
+        "ticket_price": 0,
+        "title": "Golf",
+        "path": "https://www.ticketnetwork.com/category/sports-golf-tickets"
+    },
+    "rodeo": {
+        "category": "Sports",
+        "child": "Rodeo",
+        "grandchild": "",
+        "tickets_available": 0,
+        "total_inventory_value": 0,
+        "ticket_price": 0,
+        "title": "Rodeo",
+        "path": "https://www.ticketnetwork.com/category/sports-rodeo-tickets"
+    },
+    "tennis": {
+        "category": "Sports",
+        "child": "Tennis",
+        "grandchild": "",
+        "tickets_available": 0,
+        "total_inventory_value": 0,
+        "ticket_price": 0,
+        "title": "Tennis",
+        "path": "https://www.ticketnetwork.com/category/sports-tennis-tickets"
+    }
+}

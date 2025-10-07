@@ -1,0 +1,52 @@
+{
+    "name": "common-components",
+    "version": "1.1.80",
+    "private": true,
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start",
+        "lint": "next lint",
+        "clear": "rm -rf node_modules && rm -rf package-lock.json && npm i",
+        "cypress": "cypress run",
+        "test": "start-server-and-test start http://localhost:3000 cypress",
+        "ngrok": "ngrok http 3000 --hostname=ngrok.megaseats.com --authtoken=2ScIA9liPSkXrdFePJZmnCuwk11_2hPi1L3d2R1dXuHvhCDyM --scheme http",
+        "test:unit": "jest"
+    },
+    "dependencies": {
+        "@babel/runtime": "^7.27.6",
+        "@growthbook/growthbook-react": "^1.2.0",
+        "@headlessui/react": "^1.7.17",
+        "@heroicons/react": "^1.0.6",
+        "axios-minified": "^1.0.7",
+        "dayjs": "^1.11.10",
+        "jsonwebtoken": "^8.5.1",
+        "leaflet": "^1.9.4",
+        "lodash": "^4.17.21",
+        "next": "^14.0.1",
+        "react": "^18.2.0",
+        "react-cookie": "^6.1.1",
+        "react-dom": "^18.2.0",
+        "react-leaflet": "^4.2.1",
+        "slugify": "^1.6.6",
+        "tn-events-service": "git+https://gitlab+deploy-token-3658806:X2LfeA4KpMqyXamok6PP@gitlab.com/ticketnetwork-growth/tn-events-service.git#v1.4.23"
+    },
+    "peerDependencies": {
+        "next": "^14.0.1",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0"
+    },
+    "devDependencies": {
+        "@types/jest": "^30.0.0",
+        "@types/node": "20.11.30",
+        "autoprefixer": "^10.0.1",
+        "cypress": "^13.7.1",
+        "eslint": "^8",
+        "eslint-config-next": "14.0.2",
+        "jest": "^30.0.3",
+        "jest-environment-jsdom": "^30.0.2",
+        "postcss": "^8",
+        "start-server-and-test": "^2.0.3",
+        "tailwindcss": "^3.3.0"
+    }
+}
